@@ -1,0 +1,90 @@
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe.config
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.pdb
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.dll
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.xml
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csprojAssemblyReference.cache
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.g.cs
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\App.g.cs
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.cache
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.lref
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.baml
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.g.resources
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.Properties.Resources.resources
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.GenerateResource.cache
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CoreCompileInputs.cache
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CopyComplete
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.exe
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.pdb
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.g.cs
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.baml
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.g.cs
+C:\Users\Katya Granat\source\repos\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.baml
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe.config
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.pdb
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.dll
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.xml
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csprojResolveAssemblyReference.cache
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.g.cs
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.g.cs
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.g.cs
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\App.g.cs
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.cache
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.lref
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.baml
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.baml
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.baml
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.g.resources
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.Properties.Resources.resources
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.GenerateResource.Cache
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CoreCompileInputs.cache
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.exe
+C:\Users\Gran_mv08\Desktop\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.pdb
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe.config
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.pdb
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.dll
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.xml
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csprojAssemblyReference.cache
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.g.cs
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.g.cs
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.g.cs
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\App.g.cs
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.cache
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.lref
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.baml
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.baml
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.baml
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.g.resources
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.Properties.Resources.resources
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.GenerateResource.cache
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CoreCompileInputs.cache
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CopyComplete
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.exe
+D:\Флэшка\ADO .NET\Dapper\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.pdb
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe.config
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.exe
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\ToDoListDapper.pdb
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.dll
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\bin\Debug\Dapper.xml
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csprojAssemblyReference.cache
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.g.cs
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.g.cs
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.g.cs
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\App.g.cs
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.cache
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper_MarkupCompile.lref
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\BusinessAddEditWindow.baml
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\CategoryAddEditWindow.baml
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\MainWindow.baml
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.g.resources
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.Properties.Resources.resources
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.GenerateResource.cache
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CoreCompileInputs.cache
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.csproj.CopyComplete
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.exe
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\ToDoListDapper.pdb
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\SpoilerControl.g.cs
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\SpoilerControl.baml
+D:\Флэшка\ADO .NET\Dapper\6.04.2019DapperToDoList\Right\ToDoLisyDapper2\ToDoListDapper\ToDoListDapper\obj\Debug\GeneratedInternalTypeHelper.g.cs

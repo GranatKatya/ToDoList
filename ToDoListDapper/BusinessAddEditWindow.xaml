@@ -1,0 +1,71 @@
+﻿<Window x:Class="ToDoListDapper.BusinessAddEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoListDapper"
+        mc:Ignorable="d"
+        Title="BusinessAddEditWindow"  Height="478.624" Width="353.2">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="65*"/>
+            <RowDefinition Height="82*"/>
+        </Grid.RowDefinitions>
+
+
+
+
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center"  Width="110" >
+            <Label Margin="2" Background="Azure" Width="29">Id</Label>
+            <TextBox Name ="id" Margin ="7,7,7,10.2"  Background="LightGray" IsReadOnly="True" Width="63"></TextBox>
+        </StackPanel>
+
+        <StackPanel  Grid.Row="1" Orientation="Horizontal"  >
+            <Label Margin="2" Background="Azure">Name</Label>
+            <TextBox Name ="Name" Margin ="30,7,7,18.8"  Background="LightGray" Width="247"></TextBox>
+        </StackPanel>
+
+        <StackPanel  Grid.Row="2" Orientation="Horizontal" >
+            <Label Margin="2" Background="Azure">Text</Label>
+            <TextBox Name ="Text" Margin ="40,7,7,18.8"  Background="LightGray" Width="247"></TextBox>
+        </StackPanel>
+
+
+        <StackPanel  Grid.Row="3" Orientation="Horizontal"  >
+            <Label Margin="2" Background="Azure">DateStart</Label>
+            <TextBox Name ="DateStart"  Margin ="11,7,7,26"  Background="LightGray" Width="247"></TextBox>
+        </StackPanel>
+
+
+        <StackPanel  Grid.Row="4" Orientation="Horizontal"  >
+            <Label Margin="2" Background="Azure">Deadline</Label>
+            <TextBox Name ="Deadline" Margin ="15,10,10,24.8"  Background="LightGray" Width="247" ></TextBox>
+        </StackPanel>
+
+
+        <StackPanel  Grid.Row="5" Orientation="Horizontal"  >
+            <Label Margin="2" Background="Azure">State</Label>
+            <ComboBox Name ="StatecMB" Margin ="35,10,10,24.8"  Background="LightGray" Width="247" ></ComboBox>
+        </StackPanel>
+
+        <StackPanel  Grid.Row="6" Orientation="Horizontal"  >
+            <Label Margin="2" Background="Azure">id_Category</Label>
+            <ComboBox Name ="id_Category" Margin ="33,10,10,27.8"  Background="LightGray" Width="247" ></ComboBox>
+        </StackPanel>
+
+
+
+        <StackPanel Grid.Row="7" Orientation="Horizontal" HorizontalAlignment="Center" Margin="108,17.8,122.4,0" Width="96" Height="40" VerticalAlignment="Top">
+            <Button Margin="10,10,10,4" BorderBrush="Black" BorderThickness="3" Click="ok">Ok</Button>
+            <Button Margin="0,10,0,4" BorderBrush="Black" BorderThickness="3" Click ="close">Cancel</Button>
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>
